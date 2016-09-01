@@ -16,12 +16,6 @@ namespace _6CODE
 
         static void Main(string[] args)
         {
-
-
-
-
-
-
             //Employee emp = null;
             //var r = emp?.EmpName ?? "NoName";
             //Console.WriteLine(r);
